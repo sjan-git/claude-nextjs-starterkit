@@ -29,7 +29,7 @@ export default function HomePage() {
           <nav className="flex items-center gap-4">
             <Badge variant="secondary">v1.0.0</Badge>
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://github.com" target="_blank" rel="noreferrer">
+              <a href="https://github.com/sjan-git/claude-nextjs-starterkit" target="_blank" rel="noreferrer">
                 <ExternalLink className="h-4 w-4" />
                 GitHub
               </a>
